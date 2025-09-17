@@ -7,7 +7,7 @@ return (
 <i style={{float: 'right', textDecoration: 'underline', color: 'lightblue' }}>Student ID: 301420628</i>
 <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '10px' }}>
   <img 
-    src="/public/Logo.png"   
+    src="/Logo.png"   
     alt="logo"
     style={{ width: '80px', height: '80px' }}
   />
