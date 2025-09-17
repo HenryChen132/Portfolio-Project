@@ -5,7 +5,7 @@ return(
       <div className="overlay-box">
          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '10px' }}>
           <img 
-            src="/public/me.jpg"   
+            src="/me.jpg"   
             alt="logo"
             style={{ width: '150px', height: '200px' }}
          />
