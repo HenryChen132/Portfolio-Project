@@ -21,7 +21,7 @@ a:hover {
 
 body {
     background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),
-                    url('./33.jpg');
+                    url('/33.jpg');
   background-size: cover;
   background-attachment: fixed; 
   background-repeat: no-repeat;
